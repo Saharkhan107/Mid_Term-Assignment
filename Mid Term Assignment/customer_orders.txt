@@ -1,0 +1,18 @@
+Customer: sahar, Phone: 224-409-3386, Email: sahari@gmail.com
+Orders:
+Product ID: 3, Quantity: 2
+Product ID: 2, Quantity: 1
+Final Amount: $122.04
+
+Customer: fahad, Phone: 224-409-3386, Email: fahad@gmail.com
+Orders:
+Product ID: 1, Quantity: 1
+Product ID: 5, Quantity: 2
+Final Amount: $48.71
+
+Customer: sahar, Phone: 224-409-3386, Email: sahari@gamil.com
+Orders:
+Product ID: 1, Quantity: 1
+Product ID: 3, Quantity: 1
+Final Amount: $91.19
+
